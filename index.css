@@ -1,0 +1,25 @@
+*{ /* Só Pra deixar a página bonita */
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    margin: top;
+    padding: top;
+}
+/* Atividade 1 */
+
+div {
+    width: 100px; /* largura dos quadrados */
+    height: 100px; /* altura dos quadrados */
+    margin-bottom: 10px; /* Marge dos quadrados */
+}
+ 
+ #quad1 {  /*configura a cor do quadrado */
+    background-color: blue;
+}
+ 
+#quad2 {  /*configura a cor do quadrado */
+    background-color: green;
+}
+ 
+#quad3 {  /*configura a cor do quadrado */
+    background-color: tomato;
+}
